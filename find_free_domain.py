@@ -2,7 +2,6 @@ import requests
 import json
 import re
 import sys
-import whois
 
 
 def download_register():
